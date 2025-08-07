@@ -1,0 +1,94 @@
+/* style.css - Water Reminder Website */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #e3f2fd;
+  color: #333;
+}
+
+header {
+  background: #1976d2;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+main {
+  padding: 2rem;
+  text-align: center;
+}
+
+ul {
+  text-align: start;
+}
+
+footer {
+  background: #1565c0;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+.reminder-box {
+  background: #ffffff;
+  padding: 1rem;
+  border: 1px solid #ccc;
+  max-width: 400px;
+  margin-top: 1rem;
+}
+
+.reminder-box input,
+.reminder-box button {
+  padding: 10px;
+  margin-top: 10px;
+  display: block;
+  width: 100%;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+  background: #ffffff;
+}
+
+th, td {
+  padding: 10px;
+  border: 1px solid #ccc;
+  text-align: center;
+}
+
+ul {
+  list-style: disc inside;
+  background: #ffffff;
+  padding: 1rem;
+  
+}
+
+
+/* Recipe Card Layout */
+.recipe-card {
+  background-color: #fff;
+  border-radius: 16px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  transition: transform 0.2s ease-in-out;
+}
+
+.recipe-card:hover {
+  transform: scale(1.02);
+}
