@@ -11,7 +11,11 @@
 - `index.html` – Home page with introduction and quick links  
 - `reminder.html` – Set a reminder for your next glass of water  
 - `tracker.html` – Track your daily water intake  
-- `style.css` – Styling for the entire website
+- `notification.html` – Page for showing water reminder notifications  
+- `benefits.html` – Information about benefits of drinking water  
+- `about.html` – Details about the website and creator  
+- `style.css` – Styling for the entire website  
+- `script.js` – JavaScript functionality for reminders, tracking, and storage
 
 ---
 
@@ -48,7 +52,8 @@
 ## 🛠 Technologies Used
 
 - **HTML5** for structure  
-- **CSS3** for styling  
+- **CSS3** for styling
+- **JavaScript (Vanilla JS)** for functionality and interactivity
 
 ---
 
