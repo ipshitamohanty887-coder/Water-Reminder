@@ -18,22 +18,22 @@
 ## 🖼 Screenshots
 
 **Home Page**  
-<img width="1366" height="692" alt="home" src="https://github.com/user-attachments/assets/b112266c-643e-4caf-a129-29c9d56fe572" />
+<img width="1366" height="692" alt="home" src="https://github.com/user-attachments/assets/dca36bcd-962f-4c82-b608-3f05eb8b6098" />
 
 **Reminder Page**  
-<img width="1366" height="693" alt="reminder" src="https://github.com/user-attachments/assets/97357685-25c0-4c74-a24d-d467bbe4e652" />
+<img width="1366" height="693" alt="reminder" src="https://github.com/user-attachments/assets/ffeb2e47-923c-48cc-aa6b-c39359b4436c" />
 
 **Notification Page**
-<img width="1366" height="694" alt="notification jpg" src="https://github.com/user-attachments/assets/052ee228-e2bf-4e83-9a0e-d51258d2ec74" />
+<img width="1366" height="694" alt="notification jpg" src="https://github.com/user-attachments/assets/aed09bd1-3052-4e11-a37a-e68ba78aa774" />
 
 **Benefits Page**
-<img width="1366" height="691" alt="benefits" src="https://github.com/user-attachments/assets/79b3232a-8a7e-4cc3-b417-fde760e6dbf8" />
+<img width="1366" height="691" alt="benefits" src="https://github.com/user-attachments/assets/3570fd70-d0d5-408b-a8f6-4ee4ea13ed11" />
 
 **Tracker Page**  
-<img width="1366" height="620" alt="tracker" src="https://github.com/user-attachments/assets/088433c9-f0e7-47b8-a605-d37692bbeffc" />
+<img width="1366" height="620" alt="tracker" src="https://github.com/user-attachments/assets/3b402949-376d-4f0d-bb1c-3fdecfc089fa" />
 
 **About Page**
-<img width="1366" height="691" alt="about" src="https://github.com/user-attachments/assets/412ef230-f14e-4541-9ed3-272750d559e1" />
+<img width="1366" height="691" alt="about" src="https://github.com/user-attachments/assets/5ce30b27-4aea-4650-81bb-1988815cb99a" />
 
 ## ✨ Features
 
